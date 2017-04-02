@@ -1,0 +1,2507 @@
+[
+  {
+    "name": "Parkbühne Biesdorf",
+    "lat": 52.508946,
+    "lng": 13.55677
+  },
+  {
+    "name": "Amiga Club im Atelierhaus Mengerzeile",
+    "lat": 52.488741,
+    "lng": 13.444021
+  },
+  {
+    "name": "A-Trane",
+    "lat": 52.50729,
+    "lng": 13.31994
+  },
+  {
+    "name": "ART Stalker",
+    "lat": 52.50927,
+    "lng": 13.30232
+  },
+  {
+    "name": "Cafe Lietze",
+    "lat": 52.50439,
+    "lng": 13.28717
+  },
+  {
+    "name": "Dive Bar",
+    "lat": 52.505352,
+    "lng": 13.301404
+  },
+  {
+    "name": "Maxxim",
+    "lat": 52.502016,
+    "lng": 13.330809
+  },
+  {
+    "name": "Quasimodo",
+    "lat": 52.50598,
+    "lng": 13.32859
+  },
+  {
+    "name": "Staatsoper im Schiller Theater",
+    "lat": 52.512058,
+    "lng": 13.317364
+  },
+  {
+    "name": "THE PEARL",
+    "lat": 52.505163,
+    "lng": 13.32857
+  },
+  {
+    "name": "UdK Konzertsaal",
+    "lat": 52.508845,
+    "lng": 13.328264
+  },
+  {
+    "name": "Zig Zag Jazzclub",
+    "lat": 52.475258,
+    "lng": 13.340205
+  },
+  {
+    "name": "Kino Union",
+    "lat": 52.456282,
+    "lng": 13.625629
+  },
+  {
+    "name": "12 Grad Aetherologe",
+    "lat": 52.515078,
+    "lng": 13.458967
+  },
+  {
+    "name": "Abgedreht",
+    "lat": 52.51573,
+    "lng": 13.45222
+  },
+  {
+    "name": "About Blank",
+    "lat": 52.502501,
+    "lng": 13.466377
+  },
+  {
+    "name": "Artliners",
+    "lat": 52.511526,
+    "lng": 13.461002
+  },
+  {
+    "name": "Astra Kulturhaus",
+    "lat": 52.507103,
+    "lng": 13.454466
+  },
+  {
+    "name": "Astro Bar",
+    "lat": 52.511262,
+    "lng": 13.457164
+  },
+  {
+    "name": "AVA Club",
+    "lat": 52.504088,
+    "lng": 13.448427
+  },
+  {
+    "name": "Badehaus Szimpla",
+    "lat": 52.507103,
+    "lng": 13.454466
+  },
+  {
+    "name": "Bar Bobu",
+    "lat": 52.512003,
+    "lng": 13.47076
+  },
+  {
+    "name": "Berghain",
+    "lat": 52.510626,
+    "lng": 13.442224
+  },
+  {
+    "name": "Bierhof Rüdersdorf",
+    "lat": 52.511363,
+    "lng": 13.44248
+  },
+  {
+    "name": "Bitte Danke",
+    "lat": 52.516208,
+    "lng": 13.463547
+  },
+  {
+    "name": "Booze Bar",
+    "lat": 52.512766,
+    "lng": 13.458829
+  },
+  {
+    "name": "Busche 4",
+    "lat": 52.504088,
+    "lng": 13.448427
+  },
+  {
+    "name": "Café Bar Sociale",
+    "lat": 52.512192,
+    "lng": 13.448607
+  },
+  {
+    "name": "Cafe Sybylle",
+    "lat": 52.51696,
+    "lng": 13.439595
+  },
+  {
+    "name": "Cassiopeia",
+    "lat": 52.507158,
+    "lng": 13.454701
+  },
+  {
+    "name": "Crack Bellmer",
+    "lat": 52.507641,
+    "lng": 13.454722
+  },
+  {
+    "name": "Culture Container",
+    "lat": 52.511106,
+    "lng": 13.427752
+  },
+  {
+    "name": "Der Weiße Hase",
+    "lat": 52.50755,
+    "lng": 13.454426
+  },
+  {
+    "name": "Einpackkammer (Postbahnhof am Ostbahnhof)",
+    "lat": 52.508634,
+    "lng": 13.437268
+  },
+  {
+    "name": "Elfida Bar",
+    "lat": 52.51134,
+    "lng": 13.45852
+  },
+  {
+    "name": "Em Bar",
+    "lat": 52.510828,
+    "lng": 13.458318
+  },
+  {
+    "name": "Emma Pea",
+    "lat": 52.507449,
+    "lng": 13.454585
+  },
+  {
+    "name": "F-Club",
+    "lat": 52.507103,
+    "lng": 13.454466
+  },
+  {
+    "name": "Feuermelder",
+    "lat": 52.510153,
+    "lng": 13.460337
+  },
+  {
+    "name": "Gleishalle (Postbahnhof am Ostbahnhof)",
+    "lat": 52.508634,
+    "lng": 13.437268
+  },
+  {
+    "name": "Goldfisch",
+    "lat": 52.51149,
+    "lng": 13.45829
+  },
+  {
+    "name": "Haubentaucher",
+    "lat": 52.507103,
+    "lng": 13.454466
+  },
+  {
+    "name": "Holzmarkt",
+    "lat": 52.512757,
+    "lng": 13.424385
+  },
+  {
+    "name": "HOME Bar",
+    "lat": 52.507167,
+    "lng": 13.470917
+  },
+  {
+    "name": "Jägerklause",
+    "lat": 52.51337,
+    "lng": 13.447601
+  },
+  {
+    "name": "James June",
+    "lat": 52.517481,
+    "lng": 13.441343
+  },
+  {
+    "name": "Kantine am Berghain",
+    "lat": 52.511067,
+    "lng": 13.441434
+  },
+  {
+    "name": "Kater Blau",
+    "lat": 52.511948,
+    "lng": 13.425384
+  },
+  {
+    "name": "Kosmonaut",
+    "lat": 52.507608,
+    "lng": 13.475118
+  },
+  {
+    "name": "Kosmos",
+    "lat": 52.517161,
+    "lng": 13.44998
+  },
+  {
+    "name": "Lauschangriff",
+    "lat": 52.51836,
+    "lng": 13.45533
+  },
+  {
+    "name": "Lovelite",
+    "lat": 52.50671,
+    "lng": 13.461796
+  },
+  {
+    "name": "Matrix 2",
+    "lat": 52.504088,
+    "lng": 13.448427
+  },
+  {
+    "name": "Mercedes Benz Arena",
+    "lat": 52.506314,
+    "lng": 13.443632
+  },
+  {
+    "name": "Michelberger Hotel - Foyer",
+    "lat": 52.504643,
+    "lng": 13.447821
+  },
+  {
+    "name": "Minimal Bar",
+    "lat": 52.51639,
+    "lng": 13.46406
+  },
+  {
+    "name": "Monster Ronsons Ichiban Karaoke",
+    "lat": 52.505313,
+    "lng": 13.448432
+  },
+  {
+    "name": "nhow_Berlin",
+    "lat": "52.501192 ,13.450846",
+    "lng": ""
+  },
+  {
+    "name": "Nirgendwo",
+    "lat": 52.510001,
+    "lng": 13.445399
+  },
+  {
+    "name": "noisy Rooms",
+    "lat": 52.511697,
+    "lng": 13.452633
+  },
+  {
+    "name": "Nuke Club",
+    "lat": 52.518041,
+    "lng": 13.471979
+  },
+  {
+    "name": "Pavillon im Volkspark Friedrichshain",
+    "lat": 52.52509,
+    "lng": 13.43176
+  },
+  {
+    "name": "PBHF CLUB (Postbahnhof)",
+    "lat": 52.508701,
+    "lng": 13.437008
+  },
+  {
+    "name": "Pirates Berlin",
+    "lat": 52.502859,
+    "lng": 13.445601
+  },
+  {
+    "name": "PK 22",
+    "lat": 52.513586,
+    "lng": 13.460427
+  },
+  {
+    "name": "Prachtwerk",
+    "lat": 52.47907,
+    "lng": 13.438857
+  },
+  {
+    "name": "Pride",
+    "lat": 52.512407,
+    "lng": 13.463416
+  },
+  {
+    "name": "Primitiv Bar",
+    "lat": 52.50864,
+    "lng": 13.45577
+  },
+  {
+    "name": "Radialsystem V",
+    "lat": 52.51057,
+    "lng": 13.42873
+  },
+  {
+    "name": "Raum für drastische Maßnahmen",
+    "lat": 52.509598,
+    "lng": 13.472492
+  },
+  {
+    "name": "Raumklang",
+    "lat": 52.509947,
+    "lng": 13.454759
+  },
+  {
+    "name": "Rooster",
+    "lat": 52.512783,
+    "lng": 13.451552
+  },
+  {
+    "name": "Rosis",
+    "lat": 52.50516,
+    "lng": 13.46246
+  },
+  {
+    "name": "Sheriff Teddy",
+    "lat": 52.511446,
+    "lng": 13.463458
+  },
+  {
+    "name": "Stereo 33",
+    "lat": 52.5102,
+    "lng": 13.460146
+  },
+  {
+    "name": "Suicide Circus",
+    "lat": 52.507103,
+    "lng": 13.454466
+  },
+  {
+    "name": "Supamolly",
+    "lat": 52.510646,
+    "lng": 13.471524
+  },
+  {
+    "name": "süss war gestern",
+    "lat": 52.508614,
+    "lng": 13.460975
+  },
+  {
+    "name": "Tiefgrund",
+    "lat": 52.501696,
+    "lng": 13.46558
+  },
+  {
+    "name": "TiK: Theater im Kino",
+    "lat": 52.512839,
+    "lng": 13.45532
+  },
+  {
+    "name": "Umspannwerk Ost",
+    "lat": 52.518226,
+    "lng": 13.439867
+  },
+  {
+    "name": "Urban Spree",
+    "lat": 52.507661,
+    "lng": 13.45145
+  },
+  {
+    "name": "Wilde Renate",
+    "lat": 52.49744,
+    "lng": 13.46531
+  },
+  {
+    "name": "Yaam",
+    "lat": 52.509551,
+    "lng": 13.429518
+  },
+  {
+    "name": "Zebrano Lounge/Theater",
+    "lat": 52.50571,
+    "lng": 13.46663
+  },
+  {
+    "name": "Zukunft",
+    "lat": 52.5013,
+    "lng": 13.4666
+  },
+  {
+    "name": "Zwingli Kirche",
+    "lat": 52.503717,
+    "lng": 13.454825
+  },
+  {
+    "name": "Kiste",
+    "lat": 52.53619,
+    "lng": 13.60946
+  },
+  {
+    "name": "Wartenberger Hof Veranstaltungshaus",
+    "lat": 52.574316,
+    "lng": 13.514558
+  },
+  {
+    "name": "Audio e.V.",
+    "lat": 52.44118,
+    "lng": 13.50571
+  },
+  {
+    "name": "Rummelsburg",
+    "lat": 52.482331,
+    "lng": 13.501666
+  },
+  {
+    "name": "60 Hz",
+    "lat": 52.500956,
+    "lng": 13.42823
+  },
+  {
+    "name": "Academie Lounge/Homebase Lounge",
+    "lat": 52.507117,
+    "lng": 13.377663
+  },
+  {
+    "name": "Adagio",
+    "lat": 52.50765,
+    "lng": 13.37206
+  },
+  {
+    "name": "Ankerklause",
+    "lat": 52.49564,
+    "lng": 13.420484
+  },
+  {
+    "name": "Apotheken Bar",
+    "lat": 52.501721,
+    "lng": 13.423834
+  },
+  {
+    "name": "Arcanoa 2",
+    "lat": 52.487657,
+    "lng": 13.387015
+  },
+  {
+    "name": "Auster Club",
+    "lat": 52.502147,
+    "lng": 13.431179
+  },
+  {
+    "name": "Backyard",
+    "lat": 52.498,
+    "lng": 13.40497
+  },
+  {
+    "name": "Bad Kreuzberg",
+    "lat": 52.49495,
+    "lng": 13.39774
+  },
+  {
+    "name": "Ballhaus Naunynstr.",
+    "lat": 52.502034,
+    "lng": 13.421298
+  },
+  {
+    "name": "Bar 11",
+    "lat": 52.4974,
+    "lng": 13.43116
+  },
+  {
+    "name": "Barbie Deinhoff's",
+    "lat": 52.499015,
+    "lng": 13.44557
+  },
+  {
+    "name": "Basement",
+    "lat": 52.498531,
+    "lng": 13.430969
+  },
+  {
+    "name": "Baumhaus Bar",
+    "lat": 52.500697,
+    "lng": 13.444784
+  },
+  {
+    "name": "Bellmann Bar",
+    "lat": 52.493588,
+    "lng": 13.437708
+  },
+  {
+    "name": "Bi Nuu",
+    "lat": 52.50949,
+    "lng": 13.49012
+  },
+  {
+    "name": "Bierhaus Urban",
+    "lat": 52.500711,
+    "lng": 13.441272
+  },
+  {
+    "name": "Bikini Wax",
+    "lat": 52.491264,
+    "lng": 13.415915
+  },
+  {
+    "name": "BKA-Theater",
+    "lat": 52.493826,
+    "lng": 13.387871
+  },
+  {
+    "name": "Bohnengold",
+    "lat": 52.49762,
+    "lng": 13.4242
+  },
+  {
+    "name": "Brauhaus Südstern",
+    "lat": 52.488436,
+    "lng": 13.410511
+  },
+  {
+    "name": "Bruegge",
+    "lat": 52.496614,
+    "lng": 13.419267
+  },
+  {
+    "name": "Burg Schnabel",
+    "lat": 52.497638,
+    "lng": 13.449757
+  },
+  {
+    "name": "Cake Bar",
+    "lat": 52.49928,
+    "lng": 13.4467
+  },
+  {
+    "name": "Cake Club",
+    "lat": 52.496712,
+    "lng": 13.420525
+  },
+  {
+    "name": "Careca Bar",
+    "lat": 52.499371,
+    "lng": 13.443472
+  },
+  {
+    "name": "Chalet",
+    "lat": 52.49722,
+    "lng": 13.449354
+  },
+  {
+    "name": "Chesters",
+    "lat": 52.494678,
+    "lng": 13.438342
+  },
+  {
+    "name": "Clash",
+    "lat": 52.49191,
+    "lng": 13.38817
+  },
+  {
+    "name": "Columbia Halle",
+    "lat": 52.484402,
+    "lng": 13.391942
+  },
+  {
+    "name": "Columbia Theater",
+    "lat": 52.484717,
+    "lng": 13.391455
+  },
+  {
+    "name": "Cortina Bob",
+    "lat": 52.496074,
+    "lng": 13.43513
+  },
+  {
+    "name": "Das Edelweiss",
+    "lat": 52.498271,
+    "lng": 13.434069
+  },
+  {
+    "name": "Das Hotel",
+    "lat": 52.49661,
+    "lng": 13.42055
+  },
+  {
+    "name": "Dodo Bar",
+    "lat": 52.492194,
+    "lng": 13.382854
+  },
+  {
+    "name": "E4 Club",
+    "lat": 52.50644,
+    "lng": 13.373214
+  },
+  {
+    "name": "Ernst Bar",
+    "lat": 52.489608,
+    "lng": 13.392314
+  },
+  {
+    "name": "Farbfernseher",
+    "lat": 52.49941,
+    "lng": 13.42425
+  },
+  {
+    "name": "Ficken 3000",
+    "lat": 52.488642,
+    "lng": 13.422671
+  },
+  {
+    "name": "Fiese Remise",
+    "lat": 52.505636,
+    "lng": 13.433045
+  },
+  {
+    "name": "Filmkunst Bar",
+    "lat": 52.49622,
+    "lng": 13.42906
+  },
+  {
+    "name": "Filterhouse",
+    "lat": 52.49365,
+    "lng": 13.41764
+  },
+  {
+    "name": "Fluxbau",
+    "lat": 52.502698,
+    "lng": 13.440855
+  },
+  {
+    "name": "Franken",
+    "lat": 52.500622,
+    "lng": 13.42218
+  },
+  {
+    "name": "Freudenzimmer (neu)",
+    "lat": 52.490769,
+    "lng": 13.387764
+  },
+  {
+    "name": "Fuchsbau",
+    "lat": 52.495609,
+    "lng": 13.419382
+  },
+  {
+    "name": "G.A.S-station",
+    "lat": 52.49478,
+    "lng": 13.40008
+  },
+  {
+    "name": "Georg von Rauch-Haus",
+    "lat": 52.504546,
+    "lng": 13.425014
+  },
+  {
+    "name": "Gretchen Club",
+    "lat": 52.496262,
+    "lng": 13.388179
+  },
+  {
+    "name": "HAU 1",
+    "lat": 52.499958,
+    "lng": 13.387145
+  },
+  {
+    "name": "HAU 2",
+    "lat": 52.49913,
+    "lng": 13.38633
+  },
+  {
+    "name": "HAU 3",
+    "lat": 52.497863,
+    "lng": 13.386078
+  },
+  {
+    "name": "Huxsleys neue Welt",
+    "lat": 52.486887,
+    "lng": 13.42227
+  },
+  {
+    "name": "Ipse",
+    "lat": 52.49744,
+    "lng": 13.452179
+  },
+  {
+    "name": "John Muir",
+    "lat": 52.49943,
+    "lng": 13.43416
+  },
+  {
+    "name": "Jonny Knüppel",
+    "lat": 52.49795,
+    "lng": 13.45031
+  },
+  {
+    "name": "Junction Bar",
+    "lat": 52.491438,
+    "lng": 13.393224
+  },
+  {
+    "name": "L.U.X.",
+    "lat": 52.500282,
+    "lng": 13.443524
+  },
+  {
+    "name": "Lerchen und Eulen",
+    "lat": 52.502095,
+    "lng": 13.430709
+  },
+  {
+    "name": "Lido",
+    "lat": 52.49917,
+    "lng": 13.445
+  },
+  {
+    "name": "Lidolino",
+    "lat": 52.499221,
+    "lng": 13.445029
+  },
+  {
+    "name": "Luzia",
+    "lat": 52.5018,
+    "lng": 13.41827
+  },
+  {
+    "name": "Madame Claude",
+    "lat": 52.49973,
+    "lng": 13.43739
+  },
+  {
+    "name": "Maze",
+    "lat": 52.490769,
+    "lng": 13.387764
+  },
+  {
+    "name": "Milchbar",
+    "lat": 52.499751,
+    "lng": 13.426618
+  },
+  {
+    "name": "Monarch",
+    "lat": 52.499267,
+    "lng": 13.420497
+  },
+  {
+    "name": "Multilayerladen",
+    "lat": 52.5,
+    "lng": 13.41895
+  },
+  {
+    "name": "Musik & Frieden",
+    "lat": 52.500748,
+    "lng": 13.4449
+  },
+  {
+    "name": "Muting the Noise",
+    "lat": 52.49387,
+    "lng": 13.398441
+  },
+  {
+    "name": "Oberbaum-Eck",
+    "lat": 52.501304,
+    "lng": 13.442706
+  },
+  {
+    "name": "Ofen Bar",
+    "lat": 52.4928,
+    "lng": 13.42605
+  },
+  {
+    "name": "Paloma Bar",
+    "lat": 52.499318,
+    "lng": 13.418987
+  },
+  {
+    "name": "Passionskirche",
+    "lat": 52.489524,
+    "lng": 13.397143
+  },
+  {
+    "name": "Prince Charles",
+    "lat": 52.503058,
+    "lng": 13.40993
+  },
+  {
+    "name": "Privatclub 2 (Privatclub Berlin)",
+    "lat": 52.500472,
+    "lng": 13.435295
+  },
+  {
+    "name": "PRO STAGE Berlin",
+    "lat": 52.488369,
+    "lng": 13.423109
+  },
+  {
+    "name": "Puro Sky Lounge",
+    "lat": 52.504489,
+    "lng": 13.338068
+  },
+  {
+    "name": "Repeat",
+    "lat": 52.49901,
+    "lng": 13.43001
+  },
+  {
+    "name": "Ritter Butzke",
+    "lat": 52.502172,
+    "lng": 13.407815
+  },
+  {
+    "name": "Rummels Perle",
+    "lat": 52.49658,
+    "lng": 13.42608
+  },
+  {
+    "name": "SAGE Restaurant & SAGE Beach",
+    "lat": 52.505656,
+    "lng": 13.432608
+  },
+  {
+    "name": "Salon am Moritzplatz",
+    "lat": 52.50394,
+    "lng": 13.4117
+  },
+  {
+    "name": "Sauer Mutter",
+    "lat": 52.49448,
+    "lng": 13.4328
+  },
+  {
+    "name": "SO36",
+    "lat": 52.500392,
+    "lng": 13.422102
+  },
+  {
+    "name": "Solar",
+    "lat": 52.504281,
+    "lng": 13.383641
+  },
+  {
+    "name": "Spindler & Klatt",
+    "lat": 52.504281,
+    "lng": 13.383641
+  },
+  {
+    "name": "St. Georg",
+    "lat": 52.50291,
+    "lng": 13.40791
+  },
+  {
+    "name": "Station Berlin",
+    "lat": 52.499945,
+    "lng": 13.375246
+  },
+  {
+    "name": "Tante Emma",
+    "lat": 52.501415,
+    "lng": 13.441725
+  },
+  {
+    "name": "Tanzbar Miami",
+    "lat": 52.495857,
+    "lng": 13.388545
+  },
+  {
+    "name": "Tempodrom",
+    "lat": 52.501626,
+    "lng": 13.381228
+  },
+  {
+    "name": "Thomas Weisbecker Haus // Schicksaal",
+    "lat": 52.501438,
+    "lng": 13.388843
+  },
+  {
+    "name": "Transit Bar",
+    "lat": 52.499553,
+    "lng": 13.445266
+  },
+  {
+    "name": "Trinkteufel",
+    "lat": 52.502076,
+    "lng": 13.420186
+  },
+  {
+    "name": "Untertage Club",
+    "lat": 52.493826,
+    "lng": 13.387871
+  },
+  {
+    "name": "Untertage Club - Boiler Berlin",
+    "lat": 52.493826,
+    "lng": 13.387871
+  },
+  {
+    "name": "Uschi Nation",
+    "lat": 52.494396,
+    "lng": 13.435086
+  },
+  {
+    "name": "Watergate",
+    "lat": 52.500964,
+    "lng": 13.445401
+  },
+  {
+    "name": "Wendel",
+    "lat": 52.500491,
+    "lng": 13.443312
+  },
+  {
+    "name": "Westgermany",
+    "lat": 52.499344,
+    "lng": 13.419243
+  },
+  {
+    "name": "Wiener Blut",
+    "lat": 52.498168,
+    "lng": 13.429386
+  },
+  {
+    "name": "Wild at Heart",
+    "lat": 52.49742,
+    "lng": 13.43093
+  },
+  {
+    "name": "Wowsville",
+    "lat": 52.49496,
+    "lng": 13.43011
+  },
+  {
+    "name": "Yorckschloesschen",
+    "lat": 52.493558,
+    "lng": 13.381975
+  },
+  {
+    "name": "Zum Franziskaner",
+    "lat": 52.501374,
+    "lng": 13.416896
+  },
+  {
+    "name": "Zyankali Bar",
+    "lat": 52.4944,
+    "lng": 13.38412
+  },
+  {
+    "name": "Berliner Rockhaus",
+    "lat": 52.505073,
+    "lng": 13.483778
+  },
+  {
+    "name": "BLO-Ateliers",
+    "lat": 52.59764,
+    "lng": 13.35225
+  },
+  {
+    "name": "Kulturhaus Kili / Club Kili",
+    "lat": 52.507308,
+    "lng": 13.475708
+  },
+  {
+    "name": "MUSIKERLAUBT Berlin",
+    "lat": 52.507384,
+    "lng": 13.476691
+  },
+  {
+    "name": "Theater an der Parkaue",
+    "lat": 52.51681,
+    "lng": 13.47737
+  },
+  {
+    "name": "Void",
+    "lat": 52.507498,
+    "lng": 13.475929
+  },
+  {
+    "name": "Biesdorfer Parkbühne",
+    "lat": 52.51194,
+    "lng": 13.55867
+  },
+  {
+    "name": "Heizhaus",
+    "lat": 52.51459,
+    "lng": 13.52618
+  },
+  {
+    "name": "Jugendzentrum Betonia",
+    "lat": 52.56622,
+    "lng": 13.56409
+  },
+  {
+    "name": "ORWOhaus",
+    "lat": 52.53733,
+    "lng": 13.52953
+  },
+  {
+    "name": "8mm Bar",
+    "lat": 52.53129,
+    "lng": 13.41147
+  },
+  {
+    "name": "Acker Stadt Palast",
+    "lat": 52.529828,
+    "lng": 13.397199
+  },
+  {
+    "name": "ACUD macht Neu",
+    "lat": 52.53353,
+    "lng": 13.40086
+  },
+  {
+    "name": "Admiralspalast",
+    "lat": 52.520767,
+    "lng": 13.388426
+  },
+  {
+    "name": "Admiralspalast – Saal F101",
+    "lat": 52.520713,
+    "lng": 13.388347
+  },
+  {
+    "name": "Admiralspalast – Studio",
+    "lat": 52.520713,
+    "lng": 13.388347
+  },
+  {
+    "name": "Alte Münze",
+    "lat": 52.516113,
+    "lng": 13.40912
+  },
+  {
+    "name": "Anna Hirsch Bar",
+    "lat": 52.52767,
+    "lng": 13.38863
+  },
+  {
+    "name": "Aufsturz",
+    "lat": 52.52502,
+    "lng": 13.39195
+  },
+  {
+    "name": "Avenue",
+    "lat": 52.519909,
+    "lng": 13.423324
+  },
+  {
+    "name": "B-Flat",
+    "lat": 52.52371,
+    "lng": 13.40748
+  },
+  {
+    "name": "Babette Bar",
+    "lat": 52.51953,
+    "lng": 13.42338
+  },
+  {
+    "name": "Babylon Kino",
+    "lat": 52.526104,
+    "lng": 13.411809
+  },
+  {
+    "name": "Ballhaus Berlin",
+    "lat": 52.532033,
+    "lng": 13.380059
+  },
+  {
+    "name": "Ballhaus Mitte",
+    "lat": 52.526567,
+    "lng": 13.410975
+  },
+  {
+    "name": "Bar Roberta",
+    "lat": 52.53595,
+    "lng": 13.40155
+  },
+  {
+    "name": "Bassy Club",
+    "lat": 52.531517,
+    "lng": 13.411791
+  },
+  {
+    "name": "Beate Uwe",
+    "lat": 52.51745,
+    "lng": 13.41923
+  },
+  {
+    "name": "Belushi's",
+    "lat": 52.526863,
+    "lng": 13.410697
+  },
+  {
+    "name": "Berliner Dom",
+    "lat": 52.519061,
+    "lng": 13.401078
+  },
+  {
+    "name": "Bogen 47 (Marie Antoinette @ Bogen 47)",
+    "lat": 52.513061,
+    "lng": 13.423104
+  },
+  {
+    "name": "Bohannon",
+    "lat": 52.52371,
+    "lng": 13.40748
+  },
+  {
+    "name": "Bravo Bar",
+    "lat": 52.527126,
+    "lng": 13.387925
+  },
+  {
+    "name": "BRICKS Gastronomie GmbH",
+    "lat": 52.5119,
+    "lng": 13.392812
+  },
+  {
+    "name": "C-Base Raumstation (2)",
+    "lat": 52.512618,
+    "lng": 13.419637
+  },
+  {
+    "name": "Café Moskau",
+    "lat": 52.519909,
+    "lng": 13.423324
+  },
+  {
+    "name": "Caffetteria Buchhandlung",
+    "lat": 52.526172,
+    "lng": 13.393774
+  },
+  {
+    "name": "CCCP Bar",
+    "lat": 52.529335,
+    "lng": 13.401755
+  },
+  {
+    "name": "Clärchens Ballhaus",
+    "lat": 52.52667,
+    "lng": 13.39679
+  },
+  {
+    "name": "Club 23",
+    "lat": 52.538589,
+    "lng": 13.412925
+  },
+  {
+    "name": "Club der polnischen Versager",
+    "lat": 52.52994,
+    "lng": 13.39694
+  },
+  {
+    "name": "Cosmic Kaspar",
+    "lat": 52.529983,
+    "lng": 13.400759
+  },
+  {
+    "name": "Dean",
+    "lat": 52.527906,
+    "lng": 13.40246
+  },
+  {
+    "name": "Department Club",
+    "lat": 52.525967,
+    "lng": 13.391983
+  },
+  {
+    "name": "Eschschloraque",
+    "lat": 52.524239,
+    "lng": 13.40239
+  },
+  {
+    "name": "EWerk 2",
+    "lat": 52.508716,
+    "lng": 13.387129
+  },
+  {
+    "name": "FC Magnet Bar",
+    "lat": 52.533033,
+    "lng": 13.400105
+  },
+  {
+    "name": "Feed Soundspace",
+    "lat": 52.52684,
+    "lng": 13.39488
+  },
+  {
+    "name": "Felix",
+    "lat": 52.515055,
+    "lng": 13.379686
+  },
+  {
+    "name": "Fire Bar",
+    "lat": 52.52502,
+    "lng": 13.39681
+  },
+  {
+    "name": "Fire Club",
+    "lat": 52.52374,
+    "lng": 13.39095
+  },
+  {
+    "name": "Freudenhaus",
+    "lat": 52.53088,
+    "lng": 13.407271
+  },
+  {
+    "name": "Friedrichstadtpalast",
+    "lat": 52.52393,
+    "lng": 13.388821
+  },
+  {
+    "name": "Golden Gate",
+    "lat": 52.51601,
+    "lng": 13.41693
+  },
+  {
+    "name": "Griffin",
+    "lat": 52.532248,
+    "lng": 13.395211
+  },
+  {
+    "name": "Grüner Salon",
+    "lat": 52.52695,
+    "lng": 13.4114
+  },
+  {
+    "name": "Hafenbar (neu)",
+    "lat": 52.521777,
+    "lng": 13.407242
+  },
+  {
+    "name": "Hangar 49",
+    "lat": 52.513061,
+    "lng": 13.423104
+  },
+  {
+    "name": "HO Berlin",
+    "lat": 52.515686,
+    "lng": 13.419612
+  },
+  {
+    "name": "Hofbräu Berlin",
+    "lat": 52.52456,
+    "lng": 13.413968
+  },
+  {
+    "name": "House of Weekend",
+    "lat": 52.523382,
+    "lng": 13.415434
+  },
+  {
+    "name": "HRD Bar",
+    "lat": 52.525855,
+    "lng": 13.390859
+  },
+  {
+    "name": "Kaffee Burger",
+    "lat": 52.52869,
+    "lng": 13.40847
+  },
+  {
+    "name": "Kalkscheune",
+    "lat": 52.524331,
+    "lng": 13.389844
+  },
+  {
+    "name": "Kaschk",
+    "lat": 52.528312,
+    "lng": 13.40988
+  },
+  {
+    "name": "Kino International",
+    "lat": 52.520479,
+    "lng": 13.422849
+  },
+  {
+    "name": "Kit Kat Club 4",
+    "lat": 52.509718,
+    "lng": 13.416946
+  },
+  {
+    "name": "Konzerthaus Berlin",
+    "lat": 52.513722,
+    "lng": 13.39267
+  },
+  {
+    "name": "Köpi 137/ Koma F",
+    "lat": 52.508189,
+    "lng": 13.426527
+  },
+  {
+    "name": "KraftwerkBerlin",
+    "lat": 52.510841,
+    "lng": 13.420103
+  },
+  {
+    "name": "Kunst-Werke Berlin",
+    "lat": 52.526764,
+    "lng": 13.395
+  },
+  {
+    "name": "Kunstfabrik Schlot",
+    "lat": 52.530214,
+    "lng": 13.38481
+  },
+  {
+    "name": "Last Cathedral",
+    "lat": 52.529466,
+    "lng": 13.410206
+  },
+  {
+    "name": "Libertine Club",
+    "lat": 52.5159,
+    "lng": 13.4204
+  },
+  {
+    "name": "M-Bia",
+    "lat": 52.522664,
+    "lng": 13.409103
+  },
+  {
+    "name": "Marie Antoinette",
+    "lat": 52.513061,
+    "lng": 13.423104
+  },
+  {
+    "name": "Mein Haus am See",
+    "lat": 52.529983,
+    "lng": 13.400759
+  },
+  {
+    "name": "Metropol Salon",
+    "lat": 52.520767,
+    "lng": 13.388426
+  },
+  {
+    "name": "Molle Mumpitz",
+    "lat": 52.521551,
+    "lng": 13.409676
+  },
+  {
+    "name": "Muschi Obermaier",
+    "lat": 52.529584,
+    "lng": 13.397655
+  },
+  {
+    "name": "N3 Club",
+    "lat": 52.523822,
+    "lng": 13.40132
+  },
+  {
+    "name": "OHM",
+    "lat": 52.510486,
+    "lng": 13.420274
+  },
+  {
+    "name": "Old CCCP",
+    "lat": 52.528715,
+    "lng": 13.408729
+  },
+  {
+    "name": "Pfefferberg Haus 13",
+    "lat": 52.531517,
+    "lng": 13.411791
+  },
+  {
+    "name": "Prosecco Berlin",
+    "lat": 52.52554,
+    "lng": 13.411
+  },
+  {
+    "name": "Reingold",
+    "lat": 52.52872,
+    "lng": 13.3881
+  },
+  {
+    "name": "RMCM Ramones Museum",
+    "lat": 52.50124,
+    "lng": 13.44324
+  },
+  {
+    "name": "Roadrunner’s Paradise Club",
+    "lat": 52.530444,
+    "lng": 13.413356
+  },
+  {
+    "name": "Roter Salon",
+    "lat": 52.52695,
+    "lng": 13.4114
+  },
+  {
+    "name": "Sage Club",
+    "lat": 52.509718,
+    "lng": 13.416946
+  },
+  {
+    "name": "Schokoladen",
+    "lat": 52.52974,
+    "lng": 13.39659
+  },
+  {
+    "name": "Sky Club Berlin",
+    "lat": 52.523002,
+    "lng": 13.416554
+  },
+  {
+    "name": "Sophienkirche",
+    "lat": 52.525303,
+    "lng": 13.399192
+  },
+  {
+    "name": "Sophiensaele",
+    "lat": 52.525899,
+    "lng": 13.401601
+  },
+  {
+    "name": "Super-Sessions GmbH & Co. KG",
+    "lat": 52.530188,
+    "lng": 13.384802
+  },
+  {
+    "name": "Tausend",
+    "lat": 52.52089,
+    "lng": 13.38459
+  },
+  {
+    "name": "The Grand",
+    "lat": 52.525525,
+    "lng": 13.412555
+  },
+  {
+    "name": "TIPI am Kanzleramt",
+    "lat": 52.518577,
+    "lng": 13.367228
+  },
+  {
+    "name": "Trafic",
+    "lat": 52.522934,
+    "lng": 13.416549
+  },
+  {
+    "name": "Tresor 2",
+    "lat": 52.510603,
+    "lng": 13.419762
+  },
+  {
+    "name": "Tube Station",
+    "lat": 52.5125,
+    "lng": 13.389373
+  },
+  {
+    "name": "Villa Elisabeth",
+    "lat": 52.533111,
+    "lng": 13.397207
+  },
+  {
+    "name": "Volksbuehne",
+    "lat": 52.527141,
+    "lng": 13.412019
+  },
+  {
+    "name": "Werk9",
+    "lat": 52.509131,
+    "lng": 13.394365
+  },
+  {
+    "name": "Wood Wood Store",
+    "lat": 52.525182,
+    "lng": 13.393816
+  },
+  {
+    "name": "Z Bar",
+    "lat": 52.52397,
+    "lng": 13.40718
+  },
+  {
+    "name": "Z-Bar",
+    "lat": 52.52951,
+    "lng": 13.39558
+  },
+  {
+    "name": "Zosch",
+    "lat": 52.52948,
+    "lng": 13.39573
+  },
+  {
+    "name": "Zuckerbrot",
+    "lat": 52.52601,
+    "lng": 13.39382
+  },
+  {
+    "name": "Suzie Mambo",
+    "lat": 52.52927,
+    "lng": 13.405223
+  },
+  {
+    "name": "Güterpalast",
+    "lat": 52.533843,
+    "lng": 13.336716
+  },
+  {
+    "name": "Kallasch&",
+    "lat": 52.533106,
+    "lng": 13.336665
+  },
+  {
+    "name": "Kulturfabrik Moabit",
+    "lat": 52.534254,
+    "lng": 13.359344
+  },
+  {
+    "name": "Slaughterhouse an der Kulturfabrik Moabit",
+    "lat": 52.534254,
+    "lng": 13.359344
+  },
+  {
+    "name": "ZK/U",
+    "lat": 52.53279,
+    "lng": 13.33413
+  },
+  {
+    "name": "Wildenbruch Bar",
+    "lat": 52.486379,
+    "lng": 13.44612
+  },
+  {
+    "name": "Ä",
+    "lat": 52.4851,
+    "lng": 13.43692
+  },
+  {
+    "name": "AETHER BAR",
+    "lat": 52.48727,
+    "lng": 13.43049
+  },
+  {
+    "name": "Alte Kindl Brauerei",
+    "lat": 52.478838,
+    "lng": 13.430823
+  },
+  {
+    "name": "Alter Löwe Rein",
+    "lat": 52.475686,
+    "lng": 13.44323
+  },
+  {
+    "name": "B-Lage",
+    "lat": 52.47375,
+    "lng": 13.45137
+  },
+  {
+    "name": "Bei Ruth",
+    "lat": 52.476395,
+    "lng": 13.459214
+  },
+  {
+    "name": "Bertrams",
+    "lat": 52.490487,
+    "lng": 13.435771
+  },
+  {
+    "name": "Café Sandmann",
+    "lat": 52.48108,
+    "lng": 13.429225
+  },
+  {
+    "name": "Damen Salon",
+    "lat": 52.491,
+    "lng": 13.42944
+  },
+  {
+    "name": "Das Gift",
+    "lat": 52.484015,
+    "lng": 13.432444
+  },
+  {
+    "name": "Die Zauberinsel",
+    "lat": 52.476651,
+    "lng": 13.449903
+  },
+  {
+    "name": "Donau115",
+    "lat": 52.483564,
+    "lng": 13.433513
+  },
+  {
+    "name": "Dufte Musikbar",
+    "lat": 52.460987,
+    "lng": 13.443054
+  },
+  {
+    "name": "Exil Bar",
+    "lat": 52.50048,
+    "lng": 13.41787
+  },
+  {
+    "name": "Frollein Langner",
+    "lat": 52.47395,
+    "lng": 13.425184
+  },
+  {
+    "name": "Gallery im Koernerpark",
+    "lat": 52.470587,
+    "lng": 13.436054
+  },
+  {
+    "name": "Gelegenheiten",
+    "lat": 52.483988,
+    "lng": 13.439369
+  },
+  {
+    "name": "Griessmühle",
+    "lat": 52.475295,
+    "lng": 13.457613
+  },
+  {
+    "name": "Heimathafen Neukölln",
+    "lat": 52.476984,
+    "lng": 13.439255
+  },
+  {
+    "name": "IPA Bar",
+    "lat": 52.47294,
+    "lng": 13.441225
+  },
+  {
+    "name": "Ke//er (kellerkultur.net)",
+    "lat": 52.482773,
+    "lng": 13.431738
+  },
+  {
+    "name": "Klunkerkranich",
+    "lat": 52.482038,
+    "lng": 13.432299
+  },
+  {
+    "name": "Kollektivbar ES",
+    "lat": 52.490142,
+    "lng": 13.43356
+  },
+  {
+    "name": "Lagari",
+    "lat": 52.490578,
+    "lng": 13.431574
+  },
+  {
+    "name": "Laidak",
+    "lat": 52.479691,
+    "lng": 13.428478
+  },
+  {
+    "name": "Little Stage Club",
+    "lat": 52.472472,
+    "lng": 13.440771
+  },
+  {
+    "name": "Loftus Hall",
+    "lat": 52.490487,
+    "lng": 13.435771
+  },
+  {
+    "name": "Loophole",
+    "lat": 52.4806,
+    "lng": 13.43285
+  },
+  {
+    "name": "Mama Berlin",
+    "lat": 52.49053,
+    "lng": 13.42589
+  },
+  {
+    "name": "Neue Nachbarn",
+    "lat": 52.47025,
+    "lng": 13.43163
+  },
+  {
+    "name": "Noize Fabrik",
+    "lat": 52.485583,
+    "lng": 13.449306
+  },
+  {
+    "name": "Oblomov",
+    "lat": 52.490055,
+    "lng": 13.426217
+  },
+  {
+    "name": "Posch Teckel",
+    "lat": 52.491091,
+    "lng": 13.42501
+  },
+  {
+    "name": "Proberaum Berlin",
+    "lat": 52.46311,
+    "lng": 13.43315
+  },
+  {
+    "name": "Promenaden Eck",
+    "lat": 52.475866,
+    "lng": 13.422007
+  },
+  {
+    "name": "Richi",
+    "lat": 52.47759,
+    "lng": 13.44054
+  },
+  {
+    "name": "Saalbau Neukoelln",
+    "lat": 52.47696,
+    "lng": 13.439366
+  },
+  {
+    "name": "Sameheads",
+    "lat": 52.477893,
+    "lng": 13.440378
+  },
+  {
+    "name": "Schiefe Bahn",
+    "lat": 52.473827,
+    "lng": 13.44267
+  },
+  {
+    "name": "Schillingbar",
+    "lat": 52.488209,
+    "lng": 13.428589
+  },
+  {
+    "name": "Schrippe Hawaii",
+    "lat": 52.476436,
+    "lng": 13.459215
+  },
+  {
+    "name": "SchwuZ",
+    "lat": 52.479126,
+    "lng": 13.433419
+  },
+  {
+    "name": "Silverfuture",
+    "lat": 52.48805,
+    "lng": 13.430153
+  },
+  {
+    "name": "Soulcat Music Bar",
+    "lat": 52.487934,
+    "lng": 13.431686
+  },
+  {
+    "name": "Sowieso Neukölln",
+    "lat": 52.475394,
+    "lng": 13.424406
+  },
+  {
+    "name": "Syndicat",
+    "lat": 52.478251,
+    "lng": 13.423824
+  },
+  {
+    "name": "Tennis Bar",
+    "lat": 52.48108,
+    "lng": 13.429225
+  },
+  {
+    "name": "The Club Berlin",
+    "lat": 52.48206,
+    "lng": 13.425636
+  },
+  {
+    "name": "TiER",
+    "lat": 52.484851,
+    "lng": 13.437588
+  },
+  {
+    "name": "Unicornopium Loch",
+    "lat": 52.476395,
+    "lng": 13.459214
+  },
+  {
+    "name": "Urtonmusik",
+    "lat": 52.477276,
+    "lng": 13.459471
+  },
+  {
+    "name": "Valentinstüberl",
+    "lat": 52.4832,
+    "lng": 13.434176
+  },
+  {
+    "name": "Vater Bar",
+    "lat": 52.486826,
+    "lng": 13.429159
+  },
+  {
+    "name": "Villa Neukölln",
+    "lat": 52.482056,
+    "lng": 13.425095
+  },
+  {
+    "name": "Werkstatt der Kulturen",
+    "lat": 52.483923,
+    "lng": 13.423126
+  },
+  {
+    "name": "Zum Böhmischen Dorf",
+    "lat": 52.45889,
+    "lng": 13.53737
+  },
+  {
+    "name": "Wuhlheide",
+    "lat": 52.49233,
+    "lng": 13.42596
+  },
+  {
+    "name": "Klub der Republik",
+    "lat": 52.555862,
+    "lng": 13.414969
+  },
+  {
+    "name": "Zimmer 16",
+    "lat": 52.539517,
+    "lng": 13.414434
+  },
+  {
+    "name": "Alte Kantine",
+    "lat": 52.565515,
+    "lng": 13.401451
+  },
+  {
+    "name": "Alte Kantine",
+    "lat": 52.539517,
+    "lng": 13.414434
+  },
+  {
+    "name": "An einem Sonntag im August",
+    "lat": 52.54004,
+    "lng": 13.411674
+  },
+  {
+    "name": "Anomalie",
+    "lat": 52.53545,
+    "lng": 13.45331
+  },
+  {
+    "name": "August Fengler",
+    "lat": 52.54183,
+    "lng": 13.41486
+  },
+  {
+    "name": "Ausland",
+    "lat": 52.54487,
+    "lng": 13.41964
+  },
+  {
+    "name": "Baiz",
+    "lat": 52.535943,
+    "lng": 13.41281
+  },
+  {
+    "name": "Ballhaus Ost",
+    "lat": 52.54304,
+    "lng": 13.41528
+  },
+  {
+    "name": "Bandito Rosso",
+    "lat": 52.53088,
+    "lng": 13.407271
+  },
+  {
+    "name": "Bar 23",
+    "lat": 52.54252,
+    "lng": 13.41579
+  },
+  {
+    "name": "Blackland (Rock- & Metalbar)",
+    "lat": 52.53973,
+    "lng": 13.43599
+  },
+  {
+    "name": "Dock 11",
+    "lat": 52.536649,
+    "lng": 13.408138
+  },
+  {
+    "name": "Druide Bar",
+    "lat": 52.540014,
+    "lng": 13.412528
+  },
+  {
+    "name": "Duncker Club",
+    "lat": 52.546185,
+    "lng": 13.423792
+  },
+  {
+    "name": "Frannz Club",
+    "lat": 52.538152,
+    "lng": 13.412609
+  },
+  {
+    "name": "Grosser Wasserspeicher",
+    "lat": 52.53229,
+    "lng": 13.41913
+  },
+  {
+    "name": "Haus der Sinne",
+    "lat": 52.54913,
+    "lng": 13.40423
+  },
+  {
+    "name": "Hof (Kultur Brauerei)",
+    "lat": 52.539251,
+    "lng": 13.413553
+  },
+  {
+    "name": "Horns & Hooves",
+    "lat": 52.541156,
+    "lng": 13.412779
+  },
+  {
+    "name": "Hotel Oderberger",
+    "lat": 52.512058,
+    "lng": 13.317364
+  },
+  {
+    "name": "Kastanienkeller",
+    "lat": 52.537519,
+    "lng": 13.408971
+  },
+  {
+    "name": "Kesselhaus",
+    "lat": 52.538589,
+    "lng": 13.412925
+  },
+  {
+    "name": "Kesselhaus (Kultur Brauerei)",
+    "lat": 52.538589,
+    "lng": 13.412925
+  },
+  {
+    "name": "Kohlenquelle",
+    "lat": 52.549211,
+    "lng": 13.408242
+  },
+  {
+    "name": "KulturBrauerei",
+    "lat": 52.538589,
+    "lng": 13.412925
+  },
+  {
+    "name": "KVU Kirche v.Unten",
+    "lat": 52.535608,
+    "lng": 13.451981
+  },
+  {
+    "name": "Lutz Friedrich/Tante Käthe",
+    "lat": 52.54047,
+    "lng": 13.404014
+  },
+  {
+    "name": "Maschinenhaus (Kultur Brauerei)",
+    "lat": 52.538589,
+    "lng": 13.412925
+  },
+  {
+    "name": "Mauersegler",
+    "lat": 52.54047,
+    "lng": 13.404014
+  },
+  {
+    "name": "Max-Schmeling-Halle",
+    "lat": 52.545944,
+    "lng": 13.406116
+  },
+  {
+    "name": "Mensch Meier",
+    "lat": 52.535176,
+    "lng": 13.452455
+  },
+  {
+    "name": "Moon Club",
+    "lat": 52.538589,
+    "lng": 13.412925
+  },
+  {
+    "name": "Musikbrauerei",
+    "lat": 52.530542,
+    "lng": 13.4285
+  },
+  {
+    "name": "Neu! Bar",
+    "lat": 52.53107,
+    "lng": 13.426645
+  },
+  {
+    "name": "Nightwalker",
+    "lat": 52.536174,
+    "lng": 13.436118
+  },
+  {
+    "name": "Palais (Kultur Brauerei)",
+    "lat": 52.538303,
+    "lng": 13.412752
+  },
+  {
+    "name": "Phono Club",
+    "lat": 52.54548,
+    "lng": 13.41666
+  },
+  {
+    "name": "Rhabarber",
+    "lat": 52.539503,
+    "lng": 13.421237
+  },
+  {
+    "name": "Rosengarten",
+    "lat": 52.53205,
+    "lng": 13.4038
+  },
+  {
+    "name": "Schlagwerk",
+    "lat": 52.53071,
+    "lng": 13.413393
+  },
+  {
+    "name": "Schoenwetter",
+    "lat": 52.54047,
+    "lng": 13.404014
+  },
+  {
+    "name": "Singuhr Hoergaleri",
+    "lat": 52.537467,
+    "lng": 13.430764
+  },
+  {
+    "name": "Soda",
+    "lat": 52.539517,
+    "lng": 13.414434
+  },
+  {
+    "name": "Speiches Rock- und Blueskneipe",
+    "lat": 52.543835,
+    "lng": 13.416539
+  },
+  {
+    "name": "Stahlrohr 2.0",
+    "lat": 52.551958,
+    "lng": 13.413713
+  },
+  {
+    "name": "UFO SOUND STUDIO",
+    "lat": 52.530572,
+    "lng": 13.428633
+  },
+  {
+    "name": "Velodrom Berlin",
+    "lat": 52.530765,
+    "lng": 13.451085
+  },
+  {
+    "name": "Wabe",
+    "lat": 52.537463,
+    "lng": 13.431099
+  },
+  {
+    "name": "Zu mir oder zu dir",
+    "lat": 52.56807,
+    "lng": 13.32892
+  },
+  {
+    "name": "Western Saloon",
+    "lat": 52.54211,
+    "lng": 13.41481
+  },
+  {
+    "name": "Sisyphos",
+    "lat": 52.493197,
+    "lng": 13.491805
+  },
+  {
+    "name": "Apostel-Paulus-Kirche",
+    "lat": 52.48955,
+    "lng": 13.353525
+  },
+  {
+    "name": "Barkett Berlin",
+    "lat": 52.488073,
+    "lng": 13.364047
+  },
+  {
+    "name": "Begine",
+    "lat": 52.49681,
+    "lng": 13.36201
+  },
+  {
+    "name": "Blues Garage",
+    "lat": 52.488266,
+    "lng": 13.36928
+  },
+  {
+    "name": "Böse Buben e.V.",
+    "lat": 52.476731,
+    "lng": 13.35759
+  },
+  {
+    "name": "Cafe M",
+    "lat": 52.49431,
+    "lng": 13.35323
+  },
+  {
+    "name": "Cafe Mitropa",
+    "lat": 52.49431,
+    "lng": 13.35323
+  },
+  {
+    "name": "Connection",
+    "lat": 52.49901,
+    "lng": 13.342526
+  },
+  {
+    "name": "Havanna",
+    "lat": 52.485115,
+    "lng": 13.353549
+  },
+  {
+    "name": "K14",
+    "lat": 52.494111,
+    "lng": 13.303162
+  },
+  {
+    "name": "Kumpelnest 3000",
+    "lat": 52.381484,
+    "lng": 13.409911
+  },
+  {
+    "name": "Malzfabrik",
+    "lat": 52.466947,
+    "lng": 13.36592
+  },
+  {
+    "name": "Mutschmanns",
+    "lat": 52.49779,
+    "lng": 13.346402
+  },
+  {
+    "name": "Nachbar",
+    "lat": 52.497484,
+    "lng": 13.353862
+  },
+  {
+    "name": "Scheinbar Variete",
+    "lat": 52.4881,
+    "lng": 13.36667
+  },
+  {
+    "name": "Slumberland",
+    "lat": 52.496681,
+    "lng": 13.353697
+  },
+  {
+    "name": "Weisse Rose",
+    "lat": 52.488259,
+    "lng": 13.346111
+  },
+  {
+    "name": "Ballhaus Spandau",
+    "lat": 52.522833,
+    "lng": 13.210585
+  },
+  {
+    "name": "Basement",
+    "lat": 52.534929,
+    "lng": 13.200754
+  },
+  {
+    "name": "Freilichtbühne Spandau",
+    "lat": 52.539701,
+    "lng": 13.216594
+  },
+  {
+    "name": "Kulturpark im Gutspark Neukladow",
+    "lat": 52.4558,
+    "lng": 13.15538
+  },
+  {
+    "name": "P-Club",
+    "lat": 52.5334,
+    "lng": 13.19033
+  },
+  {
+    "name": "Zitadelle Spandau",
+    "lat": 52.540997,
+    "lng": 13.212766
+  },
+  {
+    "name": "Cafe Albrecht",
+    "lat": 52.46038,
+    "lng": 13.37842
+  },
+  {
+    "name": "Greenhouse Berlin",
+    "lat": 52.456478,
+    "lng": 13.411404
+  },
+  {
+    "name": "Michelangelo Musikzentrum",
+    "lat": 52.465491,
+    "lng": 13.366914
+  },
+  {
+    "name": "Shangl Hangl",
+    "lat": 52.456871,
+    "lng": 13.394464
+  },
+  {
+    "name": "Silverwings",
+    "lat": 52.483964,
+    "lng": 13.391287
+  },
+  {
+    "name": "Tanzschule Traumtänzer",
+    "lat": 52.484007,
+    "lng": 13.390336
+  },
+  {
+    "name": "Ufa Fabrik",
+    "lat": 52.454689,
+    "lng": 13.381747
+  },
+  {
+    "name": "Zanjabil / Kulturgarage Tempelhof e.V.",
+    "lat": 52.457223,
+    "lng": 13.394287
+  },
+  {
+    "name": "Artenschutz Theater",
+    "lat": 52.520594,
+    "lng": 13.35876
+  },
+  {
+    "name": "Haus der Kulturen der Welt",
+    "lat": 52.518553,
+    "lng": 13.364894
+  },
+  {
+    "name": "Metaxa Bay Lifestyle-Beach-Club",
+    "lat": 52.526992,
+    "lng": 13.372743
+  },
+  {
+    "name": "Trompete Berlin",
+    "lat": 52.504446,
+    "lng": 13.353529
+  },
+  {
+    "name": "U3",
+    "lat": 52.50915,
+    "lng": 13.37522
+  },
+  {
+    "name": "Arena Club",
+    "lat": 52.496647,
+    "lng": 13.453008
+  },
+  {
+    "name": "Arena Halle",
+    "lat": 52.496924,
+    "lng": 13.453982
+  },
+  {
+    "name": "Badeschiff",
+    "lat": 52.496647,
+    "lng": 13.453008
+  },
+  {
+    "name": "Birgit & Bier",
+    "lat": 52.497693,
+    "lng": 13.449806
+  },
+  {
+    "name": "Club der Visionäre",
+    "lat": 52.496789,
+    "lng": 13.45046
+  },
+  {
+    "name": "Else",
+    "lat": 52.495245,
+    "lng": 13.462658
+  },
+  {
+    "name": "Escobar",
+    "lat": 52.496924,
+    "lng": 13.453982
+  },
+  {
+    "name": "Festsaal Kreuzberg",
+    "lat": 52.496493,
+    "lng": 13.452807
+  },
+  {
+    "name": "Flutgraben e.V.",
+    "lat": 52.497098,
+    "lng": 13.451698
+  },
+  {
+    "name": "Funkhaus Berlin",
+    "lat": 52.4808,
+    "lng": 13.50129
+  },
+  {
+    "name": "Glashaus",
+    "lat": 52.496647,
+    "lng": 13.453008
+  },
+  {
+    "name": "Hoppetosse",
+    "lat": 52.496647,
+    "lng": 13.453008
+  },
+  {
+    "name": "Insel Berlin",
+    "lat": 52.48678,
+    "lng": 13.4808
+  },
+  {
+    "name": "Jugenddorf am Müggelsee",
+    "lat": 52.447738,
+    "lng": 13.667087
+  },
+  {
+    "name": "Analog Bar",
+    "lat": 52.551067,
+    "lng": 13.372294
+  },
+  {
+    "name": "Anita Berber",
+    "lat": 52.544566,
+    "lng": 13.372592
+  },
+  {
+    "name": "F-Bar",
+    "lat": 52.551912,
+    "lng": 13.386779
+  },
+  {
+    "name": "Fabrik 23",
+    "lat": 52.544566,
+    "lng": 13.372592
+  },
+  {
+    "name": "Flop Bar",
+    "lat": 52.554874,
+    "lng": 13.341389
+  },
+  {
+    "name": "Heideglühen",
+    "lat": 52.540237,
+    "lng": 13.329602
+  },
+  {
+    "name": "Humboldthain",
+    "lat": 52.544339,
+    "lng": 13.378626
+  },
+  {
+    "name": "Kapitel 21",
+    "lat": 52.534217,
+    "lng": 13.358632
+  },
+  {
+    "name": "Kiki Sol",
+    "lat": 52.547574,
+    "lng": 13.368832
+  },
+  {
+    "name": "Kugelbahn",
+    "lat": 52.557281,
+    "lng": 13.395723
+  },
+  {
+    "name": "Maiwald Freigeist",
+    "lat": 52.583635,
+    "lng": 13.282763
+  },
+  {
+    "name": "Moritz Bar",
+    "lat": 52.54791,
+    "lng": 13.367012
+  },
+  {
+    "name": "Nussbreite",
+    "lat": 52.548553,
+    "lng": 13.34743
+  },
+  {
+    "name": "Oh! Calcutta",
+    "lat": 52.555323,
+    "lng": 13.377442
+  },
+  {
+    "name": "Panke",
+    "lat": 52.544566,
+    "lng": 13.372592
+  },
+  {
+    "name": "Resotto",
+    "lat": 52.54211,
+    "lng": 13.3556
+  },
+  {
+    "name": "Silent Green Kulturquartier",
+    "lat": 52.545004,
+    "lng": 13.366542
+  },
+  {
+    "name": "Studio8 Bar",
+    "lat": 52.55172,
+    "lng": 13.38678
+  },
+  {
+    "name": "WG Berlin",
+    "lat": 52.54944,
+    "lng": 13.36132
+  },
+  {
+    "name": "Olympiastadion",
+    "lat": 52.514697,
+    "lng": 13.239499
+  },
+  {
+    "name": "Waldbuehne",
+    "lat": 52.515769,
+    "lng": 13.229124
+  },
+  {
+    "name": "Wuehlmaeuse",
+    "lat": 52.508585,
+    "lng": 13.270896
+  },
+  {
+    "name": "Bar Jeder Vernunft",
+    "lat": 52.498451,
+    "lng": 13.328762
+  },
+  {
+    "name": "Club Empire",
+    "lat": 52.480208,
+    "lng": 13.311884
+  },
+  {
+    "name": "Empire",
+    "lat": 52.480208,
+    "lng": 13.311884
+  },
+  {
+    "name": "Orion Verwaltungs GmbH",
+    "lat": 52.49524,
+    "lng": 13.28735
+  },
+  {
+    "name": "Rickenbackers",
+    "lat": 52.491902,
+    "lng": 13.331347
+  },
+  {
+    "name": "Taff Club",
+    "lat": 52.49819,
+    "lng": 13.32232
+  }
+]
